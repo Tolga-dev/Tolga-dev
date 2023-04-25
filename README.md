@@ -1,8 +1,7 @@
 ###  0oh nice! 
 himm i will add here a fps game ehehe 
 (i just realized its not possible so probably i will add here a generator something then will make it gif then add here idk)
-
-[![Game Name](https://github.com/Tolga-dev/Tolga-dev/blob/main/player.png)](https://64483c4cc1194000087d833a--quiet-cendol-c396d6.netlify.app/ "Game Name")
+[![Player](https://github.com/Tolga-dev/Tolga-dev/blob/main/player.png)](https://github.com/Tolga-dev/Tolga-dev/blob/main/rat-moment-rat.gif)
 
 
 <!--
