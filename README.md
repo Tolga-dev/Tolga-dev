@@ -1,6 +1,7 @@
 ###  0oh nice! 
 himm i will add here a fps game ehehe 
-(i just realized its not possible so probably i will add here a generator something then will make it gif then add here idk)
+(i just realized its not possible so probably i will add here a generator something then will make it gif then add here idk) oh btw click pic 
+
 [![Player](https://github.com/Tolga-dev/Tolga-dev/blob/main/player.png)](https://github.com/Tolga-dev/Tolga-dev/blob/main/rat-moment-rat.gif)
 
 
