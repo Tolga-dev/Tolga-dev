@@ -1,6 +1,6 @@
 ###  0oh nice! 
 himm i will add here a fps game ehehe 
-[![Game Name](https://64483c4cc1194000087d833a--quiet-cendol-c396d6.netlify.app/)](https://64483c4cc1194000087d833a--quiet-cendol-c396d6.netlify.app/ "Game Name")
+[![Game Name](https://github.com/Tolga-dev/Tolga-dev/blob/main/player.png)](https://64483c4cc1194000087d833a--quiet-cendol-c396d6.netlify.app/ "Game Name")
 
 
 <!--
