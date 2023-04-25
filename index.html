@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="js/pixi.min.js"> </script>
+    <script>
+
+        // Create the application helper and add its render target to the page
+      let app;
+      let bunny;
+      window.onload = function ()
+      {
+          app = new PIXI.Application
+          {}
+          document.body.appendChild(app.view);
+
+          bunny = PIXI.Sprite.from('player.png');
+          bunny.anchor.set(0.5);
+
+          bunny.anchor.set(0.5);
+
+          // move the sprite to the center of the screen
+          bunny.x = app.screen.width / 2;
+          bunny.y = app.screen.height / 2;
+
+          app.stage.addChild(bunny);
+
+          app.ticker.add(() => {
+              // just for fun, let's rotate mr rabbit a little
+              bunny.rotation += 0.1;
+          });
+
+      }
+
+
+
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>
+
+
