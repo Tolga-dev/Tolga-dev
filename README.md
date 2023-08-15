@@ -1,5 +1,5 @@
 ###  hello!
-I am Developer! If you wanna work with me, you can email me!
+I am PolyDeveloper! If you wanna work with me, you can email me!
 <!--
 **Tolga-dev/Tolga-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
