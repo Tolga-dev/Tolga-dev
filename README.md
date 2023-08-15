@@ -1,12 +1,5 @@
-###  0oh nice! 
-himm i will add here a fps game ehehe 
-(i just realized its not possible so probably i will add here a generator something then will make it gif then add here idk) oh btw click pic 
-
-[![Player](https://github.com/Tolga-dev/Tolga-dev/blob/main/player.png)](https://github.com/Tolga-dev/Tolga-dev/blob/main/rat-moment-rat.gif)
-
-probably the best thing i can add here is just a link 
-https://quiet-cendol-c396d6.netlify.app/ like that uh
-
+###  hello!
+I am Developer! If you wanna work with me, you can email me!
 <!--
 **Tolga-dev/Tolga-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
