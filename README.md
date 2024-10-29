@@ -92,5 +92,9 @@ I am Game Developer! If you wanna work with me, you can email me!
 [star-shield]: https://img.shields.io/github/stars/Tolga-dev?style=social
 [stats-shield]: https://github-readme-stats.vercel.app/api/top-langs/?username=Tolga-dev&theme=blue-green
 
-![snake animation](https://github.com/Tolga-dev/Tolga-dev/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
  
