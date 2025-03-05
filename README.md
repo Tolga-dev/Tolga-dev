@@ -73,14 +73,7 @@ I am Game Developer! If you wanna work with me, you can email me!
 
 <img id="preview" src="https://komarev.com/ghpvc/?username=Tolga-dev&color=brightgreen"> [![Linkedin: Tolga Konat](https://img.shields.io/badge/-Let'sConnect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tolga-konat-108526223/)](https://www.linkedin.com/in/tolga-konat-108526223/) [![GitHub Tolga-dev](https://img.shields.io/github/followers/Tolga-dev?label=follow&style=social)](https://github.com/Tolga-dev)
 ![Rider][star-shield] 
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Tolga-dev&count_private=true&show_icons=true&include_all_commits=true) 
-
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tolga-dev&layout=compact&langs_count=10&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tolga-dev&theme=radical&background=282828) 
-
+ 
 ![Happy Gif](fix.gif)
 
 
