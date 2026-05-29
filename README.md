@@ -8,7 +8,7 @@
 
 
 ### Hit there! I'm Tolga
-I am Game Developer! If you wanna work with me, you can email me!
+I am Junior Software Engineer! If you wanna work with me, you can email me!
 <p align="center">
   <h3 align="center"> I'm Tolga, 💻 game developer from <img src="https://raw.githubusercontent.com/krzysztofrewak/flat-flags-iconset/master/flags/tr.png" width="20"/> <b> Turkey.</b> <br> Take a peek into my journey! 🚀 </h3></p>
 <br>
@@ -16,7 +16,7 @@ I am Game Developer! If you wanna work with me, you can email me!
 <div>
 📫 I’m currently making Uity especially on mobile games. <br>
 📫 I’m looking to collaborate on Game Development.<br>
-📫 How to reach me: Send an email to **orhan.konat.12@gmail.com** <br>
+📫 How to reach me: Send an email to **tolga.konat.12@gmail.com** <br>
 ⚡ Fun fact: life is just another game. To win it, you should find your destination.<br>
 </div>
 
